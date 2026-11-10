@@ -1,0 +1,1 @@
+Open index.html in a browser. For best results, run a local server: python -m http.server 8000 and visit http://localhost:8000 . Upload the complete folder to Netlify for sharing. The original letter is embedded unchanged. Background audio was extracted from IMG_7664.MP4.
